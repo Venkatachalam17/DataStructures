@@ -9,7 +9,7 @@ public class StaticEX {
      {
       for(int i=0;i<10;i++)
       {
-         System.outn
+         System.out.println(i);
       }
    }
      public static void main(String[] args) {
