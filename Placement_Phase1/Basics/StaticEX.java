@@ -2,14 +2,14 @@ public class StaticEX {
 
      static
      {
-        System.out.println("Hello");
+        System.out.print("Hello");
      }
      
      static
      {
       for(int i=0;i<10;i++)
       {
-         System.out.println(i);
+         System.outn
       }
    }
      public static void main(String[] args) {
