@@ -2,6 +2,21 @@ package Arrays.Patterns.Sorting;
 
 import java.util.*;
 
+// Bubble Sort
+// Compare adjacent elements
+// Swap if left > right
+// After each pass, largest element moves to the end
+// Repeat until array becomes sorted
+
+
+
+// TIME COMPLEXITY:
+// Worst: O(n²)
+// Best: O(n) (optimized version)
+
+// SPACE COMPLEXITY:
+// O(1)
+
 public class Binarysort {
     public static void main(String[] args) {
         
