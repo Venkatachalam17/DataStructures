@@ -1,6 +1,18 @@
 package Arrays.Patterns.Searching;
 
 public class Binary {
+
+ // BINARY SEARCH
+
+// Array must be sorted
+// Find middle element
+
+// target > mid -> go right
+// target < mid -> go left
+
+// Time:
+// O(log n)
+
     
     public static void main(String[] args) {
         
