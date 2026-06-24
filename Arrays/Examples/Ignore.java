@@ -32,6 +32,7 @@ public class Ignore {
             System.out.println(nums);
         }
         
+ sc.close();
 
     }
 }

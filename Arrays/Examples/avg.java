@@ -31,7 +31,7 @@ public class avg {
         System.out.println("The average of the Sum "+ sum+" is "+ avg);
 
 
-
+        sc.close();
 
     }
     

@@ -29,6 +29,9 @@ public class lowest {
             }
         }
         System.out.print("The least value is :"+least);
+
+         sc.close();
+
     }
     
 }

@@ -33,5 +33,7 @@ public class Basics{
             String[] MyString ={"Hello","java"};
             System.out.print(MyString.length);
 
+           
+
     }
 }
