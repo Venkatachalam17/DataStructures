@@ -1,6 +1,16 @@
 package Arrays.Array_2D.Basics;
 
-import java.util.*;
+// ✅ What a matrix is (int[][] arr)
+// ✅ Rows and columns
+// ✅ arr.length → rows
+// ✅ arr[0].length → columns
+// ✅ Accessing elements (arr[i][j])
+// ✅ Nested loops traversal
+// ✅ Row-wise traversal
+// ✅ Column-wise traversal
+// ✅ Sum, max, min operations
+// ✅ Taking matrix input
+
 
 public class Math {
 
