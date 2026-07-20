@@ -4,7 +4,7 @@ public class day3 {
         //Define the dimensions
         int row=4,col=4;
 
-        //Declare and Initialize a 2d ARRAY
+        //Dec and Init a 2d ARRAY
         int[][] arr = new int[row][col];
         for(int i =0;i<row;i++)
         {
